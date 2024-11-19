@@ -4,6 +4,7 @@ import Reto2.Funciones2;
 public class claseMain {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		int resultado = 0;
 		int n1 = 0;
 		do {
@@ -24,6 +25,9 @@ public class claseMain {
 			}
 
 		} while (!(resultado >= 0 && resultado < 2));
+=======
+	     
+>>>>>>> branch 'main' of https://github.com/David618-cyber/Reto4.git
 
 	}
 
