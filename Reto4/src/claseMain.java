@@ -4,6 +4,7 @@ import Reto2.Funciones2;
 public class claseMain {
 
 	public static void main(String[] args) {
+		// lo que quermos hacer es un menu que cambie de libras a kilogramos y millas a kilometros y hemos creado sus funciones//
 
 		int resultado = 0;
 		double n1 = 0;
