@@ -4,6 +4,6 @@ public class funciones2 {
     	return peso*2.205;
     }
     public static double LibrasKilos(int peso) {
-    	return peso/2.205;
+    	return peso/2.2050;
     }
 }
