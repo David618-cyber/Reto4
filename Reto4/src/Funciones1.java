@@ -6,7 +6,7 @@ public class Funciones1 {
 
 	}
 	public static double k(double kilometros) { //de kilometros a millas//
-		return kilometros*0.621;
+		return kilometros*0.6210;
 }
 
 	
